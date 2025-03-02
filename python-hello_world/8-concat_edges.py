@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-s1 = "object-oriented programming"
-s2 = "with"
-s3 = "Python"
-print(s1, s2, s3)
+str = "Python is an interpreted, interactive, object-oriented programming\
+ language that combines remarkable power with very clear syntax"
+# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
+print(str)
